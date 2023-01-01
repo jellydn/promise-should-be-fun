@@ -1,6 +1,13 @@
 <h1 align="center">Welcome to promise-should-be-fun 👋</h1>
-<p>
-</p>
+
+![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
+[![Twitter: jellydn](https://img.shields.io/twitter/follow/jellydn.svg?style=social)](https://twitter.com/jellydn)
+
+> Simple Native application system tray for Chat GPT.
+
+[![IT Man - Tip #30 - Promise should be fun [Vietnamese]](https://i.ytimg.com/vi/jhz8EhETkZ8/hqdefault.jpg)](https://www.youtube.com/watch?v=jhz8EhETkZ8)
+
+[![IT Man - Tech #30 - Deno 101 - The best developer experience [Vietnamese]](https://i.ytimg.com/vi/ocLNcwm4xUs/hqdefault.jpg)](https://www.youtube.com/watch?v=ocLNcwm4xUs)
 
 ## Usage
 
