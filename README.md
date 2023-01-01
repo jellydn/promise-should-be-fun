@@ -28,6 +28,14 @@ deno task test
 deno task bench
 ```
 
+## Exercises
+
+These are a collection of exercises designed to practice and improve your skills with async programming in JavaScript.
+
+### How to use
+
+Each exercise is a separate module and can be run on its own. The instructions for running each exercise can be found in the [exercises](exercises) folder.
+
 ## Useful links
 
 - [Using npm Packages with npm Specifiers | Manual | Deno](https://deno.land/manual@v1.29.1/node/npm_specifiers)
