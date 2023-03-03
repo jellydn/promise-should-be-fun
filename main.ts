@@ -8,6 +8,7 @@ export async function checkUrlsStatus(urls: string[], concurrency = 5) {
   return result;
 }
 
+// Usage: deno run -A main.ts
 // Learn more at https://deno.land/manual/examples/module_metadata#concepts
 if (import.meta.main) {
   const urls = [
@@ -20,6 +21,6 @@ if (import.meta.main) {
     "check status in concurrency = 2",
   );
   logger.info(
-    await checkUrlsStatus(urls, 2)
+    await checkUrlsStatus(urls, 2),
   );
 }
