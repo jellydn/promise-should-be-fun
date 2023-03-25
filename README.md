@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg?cacheSeconds=2592000)
 [![Twitter: jellydn](https://img.shields.io/twitter/follow/jellydn.svg?style=social)](https://twitter.com/jellydn)
 
-> Simple Native application system tray for Chat GPT.
+> Collection of exercises designed to practice and improve your skills with async programming in JavaScript.
 
 [![IT Man - Tip #30 - Promise should be fun [Vietnamese]](https://i.ytimg.com/vi/jhz8EhETkZ8/hqdefault.jpg)](https://www.youtube.com/watch?v=jhz8EhETkZ8)
 
